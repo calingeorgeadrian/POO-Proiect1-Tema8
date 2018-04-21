@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1524329792 source:c:\users\george\desktop\tema16\main.cpp
+	<iostream>
+	"Vector.h"
+	"Nr_Natural_Mare.h"
+	"Numar_Intreg_Mare.h"
+
+1524231816 c:\users\george\desktop\tema16\include\vector.h
+	<iostream>
+
+1524317752 c:\users\george\desktop\tema16\include\nr_natural_mare.h
+	"Vector.h"
+
+1524317752 c:\users\george\desktop\tema16\include\numar_intreg_mare.h
+	"Nr_Natural_Mare.h"
+
+1524343758 source:c:\users\george\desktop\tema16\src\nr_natural_mare.cpp
+	"Nr_Natural_Mare.h"
+
+1524301520 source:c:\users\george\desktop\tema16\src\vector.cpp
+	"Vector.h"
+
+1524329766 source:c:\users\george\desktop\tema16\src\numar_intreg_mare.cpp
+	"Numar_Intreg_Mare.h"
+
+1524226714 source:c:\users\student.lab221a-6\desktop\tema16\main.cpp
+	<iostream>
+	<Vector.h>
+	<Nr_Natural_Mare.h>
+	<Numar_Intreg_Mare.h>
+
+1524228215 c:\users\student.lab221a-6\desktop\tema16\include\vector.h
+	<iostream>
+
+1524228203 c:\users\student.lab221a-6\desktop\tema16\include\nr_natural_mare.h
+	"Vector.h"
+
+1524226374 c:\users\student.lab221a-6\desktop\tema16\include\numar_intreg_mare.h
+	<Nr_Natural_Mare.h>
+
+1524225808 source:c:\users\student.lab221a-6\desktop\tema16\src\nr_natural_mare.cpp
+	"Nr_Natural_Mare.h"
+
+1524226244 source:c:\users\student.lab221a-6\desktop\tema16\src\numar_intreg_mare.cpp
+	"Numar_Intreg_Mare.h"
+
+1524224512 source:c:\users\student.lab221a-6\desktop\tema16\src\vector.cpp
+	"Vector.h"
+
+1524301520 source:f:\tema16\src\nr_natural_mare.cpp
+	"Nr_Natural_Mare.h"
+
+1524231804 f:\tema16\include\nr_natural_mare.h
+	"Vector.h"
+
+1524231816 f:\tema16\include\vector.h
+	<iostream>
+
+1524229846 source:f:\tema16\src\numar_intreg_mare.cpp
+	"Numar_Intreg_Mare.h"
+
+1524229976 f:\tema16\include\numar_intreg_mare.h
+	<Nr_Natural_Mare.h>
+
+1524301520 source:f:\tema16\src\vector.cpp
+	"Vector.h"
+
